@@ -1,5 +1,5 @@
 # Lending-Club-Case-Study
-# Business Understanding
+# Business Understanding - 
 
 You work for a consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
 
@@ -29,7 +29,7 @@ Charged-off: Applicant has not paid the instalments in due time for a long perio
 Loan rejected: The company had rejected the loan (because the candidate does not meet their requirements etc.). Since the loan was rejected, there is no transactional history of those applicants with the company and so this data is not available with the company (and thus in this dataset)
  
 
-Business Objectives
+# Business Objectives - 
 This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. 
 
  
@@ -48,7 +48,7 @@ In other words, the company wants to understand the driving factors (or driver v
 To develop your understanding of the domain, you are advised to independently research a little about risk analytics (understanding the types of variables and their significance should be enough).
 
 
-Results Expected
+# Results Expected - 
 Write all your code in one well-commented Python file; briefly mention the insights and observations from the analysis 
 Present the overall approach of the analysis in a presentation 
 Mention the problem statement and the analysis approach briefly 
